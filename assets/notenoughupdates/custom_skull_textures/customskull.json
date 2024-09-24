@@ -66,10 +66,6 @@
 		{
 		"texture": "helmets/ember_helmet"
 		},
-	"23d38889-0bf4-3d03-9d1a-e2be0daf244b": 
-		{
-		"texture": "helmets/ender_helmet"
-		},
 	"8aa37c82-f887-30fa-ad8e-41f69b4cf46c": 
 		{
 		"model": "helmets/fermento_helmet"
@@ -1201,10 +1197,6 @@
 	"1c6cacce-ec3e-34d3-82fb-54e8e7ea00a3": 
 		{
 		"model": "helmets/leaf_skin"
-		},
-	"96e81b81-7c46-322e-8f6b-e0b4eba52aff": 
-		{
-		"model": "helmets/magma_lord_helmet"
 		},
 	"27508566-a773-3516-8903-9e405064893e": 
 		{
