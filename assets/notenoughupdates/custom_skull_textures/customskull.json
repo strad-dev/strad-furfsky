@@ -1140,7 +1140,7 @@
 		},
 	"7b5eba12-eea5-3b0f-968b-cf8578bee45b": 
 		{
-		"texture": "helmets/goldor_helmet"
+		"texture": "helmets/dungeon_goldor_helmet"
 		},
 	"ebe7fc8c-125a-3c6e-8280-658c581626d6": 
 		{
@@ -1204,7 +1204,7 @@
 		},
 	"ee05abe4-347b-3ea5-8248-fae93392140e": 
 		{
-		"texture": "helmets/maxor_helmet"
+		"texture": "helmets/dungeon_maxor_helmet"
 		},
 	"63fcdb3b-2514-3e8b-b259-3acfd4aad50a": 
 		{
@@ -1224,7 +1224,7 @@
 		},
 	"16b91b55-02b7-3315-bd9a-7da8467e4a96": 
 		{
-		"texture": "helmets/necron_helmet"
+		"texture": "helmets/dungeon_necron_helmet"
 		},
 	"b11f27af-d60d-37b3-b4d8-cf51dc5843df": 
 		{
@@ -1272,7 +1272,7 @@
 		},
 	"a3552cdc-39ab-3f9f-9373-61c035f61b7d": 
 		{
-		"texture": "helmets/storm_helmet"
+		"texture": "helmets/dungeon_storm_helmet"
 		},
 	"5f4a4af3-d4f0-3250-82ed-09e38250f98b": 
 		{
