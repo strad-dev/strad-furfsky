@@ -1142,10 +1142,6 @@
 		{
 		"texture": "helmets/helmet_of_the_rising_sun"
 		},
-	"e6a7791b-0769-3bef-aada-62d21684335d": 
-		{
-		"texture": "helmets/holy_dragon_helmet"
-		},
 	"d6ea2384-3dd2-3526-a2e8-df5b5eda55a9": 
 		{
 		"texture": "helmets/hot_aurora_helmet"
@@ -1238,17 +1234,9 @@
 		{
 		"model": "helmets/nutcracker_helmet"
 		},
-	"3ea14956-89dd-3f12-ad6c-64877ade8aee": 
-		{
-		"texture": "helmets/old_dragon_helmet"
-		},
 	"c0f5e20e-e6f9-35fa-9d34-8c248c0f8d7a": 
 		{
 		"texture": "helmets/pig_mask"
-		},
-	"4deb2fa9-391f-39c8-b321-8d9640be44e0": 
-		{
-		"texture": "helmets/protector_dragon_helmet"
 		},
 	"e4ce209b-10c5-34d2-8fae-a0b652e74354": 
 		{
@@ -1293,14 +1281,6 @@
 	"82fb0f51-2e6a-3319-9904-1d6ae5adc026": 
 		{
 		"texture": "helmets/storm_helmet_dungeon"
-		},
-	"89dd3a0f-178a-3d4d-871a-c4d7c49d761c": 
-		{
-		"texture": "helmets/strong_dragon_helmet"
-		},
-	"d4981ca4-723e-3237-8099-7c8f5637b3c3": 
-		{
-		"texture": "helmets/superior_dragon_helmet"
 		},
 	"5f4a4af3-d4f0-3250-82ed-09e38250f98b": 
 		{
@@ -1358,10 +1338,6 @@
 		{
 		"model": "helmets/true_warden_helmet/frame_11/true_warden_helmet"
 		},
-	"831066d9-8598-325c-b0ce-9b053e9c9613": 
-		{
-		"texture": "helmets/unstable_dragon_helmet"
-		},
 	"2bb90fe9-9f49-36e4-acf5-8499236d15e9": 
 		{
 		"texture": "helmets/warden_helmet"
@@ -1369,10 +1345,6 @@
 	"4434ee4f-15ca-37b9-90e9-fc6ae7a002d2": 
 		{
 		"texture": "helmets/wet_pumpkin"
-		},
-	"88c50467-c0b4-322e-981a-dbfb89244ba3": 
-		{
-		"texture": "helmets/wise_dragon_helmet"
 		},
 	"a4baabfd-565a-33f1-a52b-b120cb7c749b": 
 		{
@@ -1385,10 +1357,6 @@
 	"74ad11fc-a06d-332e-bf4b-a6fec5bca242": 
 		{
 		"texture": "helmets/wyld_helmet"
-		},
-	"ce68339a-66ca-3f08-be5d-7f61eb4eb1b5": 
-		{
-		"texture": "helmets/young_dragon_helmet"
 		},
 	"bb83c100-e8e3-3ebf-8b7d-1f61d06f6896": 
 		{
