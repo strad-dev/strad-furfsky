@@ -1,14 +1,14 @@
-{	"f5c41359-bb06-3ce6-9ca3-467c9296546a": 
+{	"04e5fd31-a0f2-35fa-9182-b6058c1737fd": 
 		{
 		"texture": "helmets/arachne_helmet"
 		},
-	"5e57207a-9085-3dd3-aace-ff1272a0bee3": 
+	"d4b98f15-fe9e-39e7-8e99-651844c19b29": 
 		{
 		"texture": "helmets/aurora_helmet"
 		},
 	"92c8df7e-054f-36cc-915a-52324cc1084a": 
 		{
-		"texture": "helmets/berserk_helmet"
+		"texture": "helmets/berserker_helmet"
 		},
 	"0e14f27f-a29b-33d6-a3d2-1925b4d64ee2": 
 		{
@@ -30,47 +30,35 @@
 		{
 		"texture": "helmets/crimson_helmet"
 		},
-	"479dc83d-b320-38b3-a82f-2dfef15a95fe": 
+	"784eff08-9808-3c3d-b3a3-b95b60b81584": 
 		{
 		"texture": "helmets/cropie_helmet"
 		},
-	"795d1347-6d0a-3ed7-a340-383b202e4d86": 
+	"7c6c9936-3893-306b-85ea-e8aa832ead93": 
 		{
 		"texture": "helmets/dark_goggles"
 		},
-	"0d4846bb-7eb0-3b66-a04f-c50a6ee167d1": 
+	"afc5e49d-8e0d-338a-8e1a-474b21a40eb0": 
 		{
 		"texture": "helmets/divan_helmet"
 		},
-	"b718a978-c064-3bbf-9faf-66641e2cc58a": 
+	"eb90d965-4c49-3ccb-aff7-712cdbfb966b": 
 		{
 		"texture": "helmets/diver_mask"
 		},
-	"3e95761b-f469-3943-a4f1-318bd0a1fd40": 
-		{
-		"texture": "helmets/dungeon_goldor_helmet"
-		},
-	"8142d49d-90e8-3e1c-8581-c98882a97ea5": 
-		{
-		"texture": "helmets/dungeon_maxor_helmet"
-		},
-	"ae123a50-b032-3fbd-8450-9b41cd7c64b9": 
-		{
-		"texture": "helmets/dungeon_necron_helmet"
-		},
-	"82fb0f51-2e6a-3319-9904-1d6ae5adc026": 
-		{
-		"texture": "helmets/dungeon_storm_helmet"
-		},
-	"bc554a7a-507a-3ee7-809c-1820f86e1ceb": 
+	"92403afe-dc79-3f5b-9683-f9cc291c379e": 
 		{
 		"texture": "helmets/ember_helmet"
 		},
-	"8aa37c82-f887-30fa-ad8e-41f69b4cf46c": 
+	"c7c991cd-a6ae-3947-9f86-32173a9c10d6": 
+		{
+		"texture": "helmets/ender_helmet"
+		},
+	"9e6e3776-6b1c-3207-bb30-e99231548c3e": 
 		{
 		"model": "helmets/fermento_helmet"
 		},
-	"15567843-d045-3620-b31b-77f5728fc9e2": 
+	"a5abb17d-8e3c-3882-b126-da47ac43d94f": 
 		{
 		"texture": "helmets/fervor_helmet"
 		},
@@ -90,7 +78,7 @@
 		{
 		"model": "helmets/fiery_terror_helmet"
 		},
-	"525b1ad8-fb3f-3a62-bd80-da5428a7ac2e": 
+	"e9f551be-85c9-3bd4-8395-3dc423c4865d": 
 		{
 		"texture": "helmets/final_destination_helmet"
 		},
@@ -1138,17 +1126,25 @@
 		{
 		"texture": "helmets/gemstone_skin/topaz/gemstone_skin_topaz_32"
 		},
-	"7b5eba12-eea5-3b0f-968b-cf8578bee45b": 
+	"654bccc0-ed3c-3483-bfc2-701c5d582593": 
 		{
-		"texture": "helmets/dungeon_goldor_helmet"
+		"texture": "helmets/goldor_helmet"
 		},
-	"ebe7fc8c-125a-3c6e-8280-658c581626d6": 
+	"3dd6f153-c89f-30cb-9a08-75b77f2b6a91": 
+		{
+		"texture": "helmets/goldor_helmet_dungeon"
+		},
+	"77b4a25a-6f49-3929-ac63-c70b8f180b79": 
 		{
 		"texture": "helmets/happy_mask"
 		},
 	"1a136205-4ff3-3028-bb5b-c2ef8a047399": 
 		{
 		"texture": "helmets/helmet_of_the_rising_sun"
+		},
+	"e6a7791b-0769-3bef-aada-62d21684335d": 
+		{
+		"texture": "helmets/holy_dragon_helmet"
 		},
 	"d6ea2384-3dd2-3526-a2e8-df5b5eda55a9": 
 		{
@@ -1158,7 +1154,7 @@
 		{
 		"model": "helmets/hot_crimson_helmet"
 		},
-	"7e209c28-4808-3054-9123-56b6b4606134": 
+	"aec65bfd-da15-340c-a16f-ca249be6eb5b": 
 		{
 		"model": "helmets/hot_fervor_helmet"
 		},
@@ -1166,7 +1162,7 @@
 		{
 		"model": "helmets/hot_terror_helmet"
 		},
-	"ba278566-451e-315a-9890-ea7f3667724d": 
+	"342a41a8-695b-31fb-bd73-b4266026c599": 
 		{
 		"texture": "helmets/infernal_aurora_helmet"
 		},
@@ -1174,7 +1170,7 @@
 		{
 		"model": "helmets/infernal_crimson_helmet"
 		},
-	"e981b8ba-aa36-3fef-8adb-cccbb3d2f6c0": 
+	"bca26fab-df74-309a-8993-4960a808b2bf": 
 		{
 		"model": "helmets/infernal_fervor_helmet"
 		},
@@ -1186,59 +1182,79 @@
 		{
 		"texture": "helmets/kalhuiki_mask"
 		},
-	"08fa7d94-8a0e-36ab-8275-8ddbfda36936": 
+	"fff66f74-bce2-3e2d-a267-3010048967d3": 
 		{
 		"texture": "helmets/krampus_helmet"
 		},
-	"9cbfb783-8572-3d4e-a1eb-a4734bc4d67e": 
+	"ea7e015d-de6c-3956-b9d0-8b842f7416ab": 
 		{
 		"texture": "helmets/lantern_helmet"
 		},
-	"1c6cacce-ec3e-34d3-82fb-54e8e7ea00a3": 
+	"2af36e27-da4b-3a64-af3b-306f7fe59b07": 
 		{
 		"model": "helmets/leaf_skin"
 		},
-	"27508566-a773-3516-8903-9e405064893e": 
+	"96e81b81-7c46-322e-8f6b-e0b4eba52aff": 
+		{
+		"model": "helmets/magma_lord_helmet"
+		},
+	"b40db6f5-9ad7-3674-aaaf-bb64826cc7e9": 
 		{
 		"texture": "helmets/mastiff_crown"
 		},
 	"ee05abe4-347b-3ea5-8248-fae93392140e": 
 		{
-		"texture": "helmets/dungeon_maxor_helmet"
+		"texture": "helmets/maxor_helmet"
 		},
-	"63fcdb3b-2514-3e8b-b259-3acfd4aad50a": 
+	"8142d49d-90e8-3e1c-8581-c98882a97ea5": 
+		{
+		"texture": "helmets/maxor_helmet_dungeon"
+		},
+	"92df7550-8f29-3dee-a9f4-9df3d958e56f": 
 		{
 		"texture": "helmets/mender_crown"
 		},
-	"57893e0f-a314-32fc-ab99-4c4e6cb20f07": 
+	"1c252a0b-580c-3cf4-85a6-0c228cde5f02": 
 		{
 		"texture": "helmets/mender_fedora"
 		},
-	"4a3fc537-0fd3-3e3a-ab1b-cc5b7ed581db": 
+	"4f92d5b9-511c-36d9-8b3d-62e9f1373fa0": 
 		{
 		"texture": "helmets/mender_helmet"
 		},
-	"7e24c542-e7c7-3fee-94b5-415eeaf3e169": 
+	"cfba8c0f-695a-3634-bc14-d84a4edc7c83": 
 		{
 		"texture": "helmets/necromancer_lord_helmet"
 		},
-	"16b91b55-02b7-3315-bd9a-7da8467e4a96": 
+	"66324342-b7cc-3bfd-bce5-12324193befb": 
 		{
-		"texture": "helmets/dungeon_necron_helmet"
+		"texture": "helmets/necron_helmet"
 		},
-	"b11f27af-d60d-37b3-b4d8-cf51dc5843df": 
+	"de883fc0-7c77-3609-a73b-b87595fccd52": 
+		{
+		"texture": "helmets/necron_helmet_dungeon"
+		},
+	"abf30344-584a-3e6d-b9be-08a4bdf422e5": 
 		{
 		"model": "helmets/nutcracker_helmet"
 		},
-	"177c6862-dc55-37c3-acca-43e5d4b7d101": 
+	"3ea14956-89dd-3f12-ad6c-64877ade8aee": 
+		{
+		"texture": "helmets/old_dragon_helmet"
+		},
+	"c0f5e20e-e6f9-35fa-9d34-8c248c0f8d7a": 
 		{
 		"texture": "helmets/pig_mask"
+		},
+	"4deb2fa9-391f-39c8-b321-8d9640be44e0": 
+		{
+		"texture": "helmets/protector_dragon_helmet"
 		},
 	"e4ce209b-10c5-34d2-8fae-a0b652e74354": 
 		{
 		"texture": "helmets/rampart_helmet"
 		},
-	"f4d7f301-cd28-353c-8027-8c617257b861": 
+	"07423d91-1b60-32b8-a9f5-4439d2062fad": 
 		{
 		"texture": "helmets/reaper_mask"
 		},
@@ -1246,11 +1262,11 @@
 		{
 		"texture": "helmets/reinforced_skin"
 		},
-	"c5ea514f-3627-3045-9b0f-0d2d58e53985": 
+	"974d1435-9117-3100-ae6f-ae01d6910479": 
 		{
 		"texture": "helmets/rekindled_ember_helmet"
 		},
-	"8c29f21d-0af3-324e-982b-dca5c7659bc4": 
+	"786c532a-f94d-315d-ad85-c2e306726fea": 
 		{
 		"texture": "helmets/shadow_assassin_helmet"
 		},
@@ -1258,7 +1274,7 @@
 		{
 		"texture": "helmets/shadow_goggles"
 		},
-	"bafabf7d-16e6-32fb-9720-812419bacc73": 
+	"749aa93f-222f-3b88-b0cd-3b2660566743": 
 		{
 		"texture": "helmets/shark_scale_helmet"
 		},
@@ -1266,19 +1282,31 @@
 		{
 		"texture": "helmets/shimmering_light_hood"
 		},
-	"a861cd92-4a61-37fc-a9ba-712a6f7965b0": 
+	"2e6bb934-d541-3d56-bec2-babc87a4b973": 
 		{
 		"texture": "helmets/squash_helmet"
 		},
-	"a3552cdc-39ab-3f9f-9373-61c035f61b7d": 
+	"19f4ade1-1057-3c24-bdd1-54adf342bf79": 
 		{
-		"texture": "helmets/dungeon_storm_helmet"
+		"texture": "helmets/storm_helmet"
+		},
+	"82fb0f51-2e6a-3319-9904-1d6ae5adc026": 
+		{
+		"texture": "helmets/storm_helmet_dungeon"
+		},
+	"89dd3a0f-178a-3d4d-871a-c4d7c49d761c": 
+		{
+		"texture": "helmets/strong_dragon_helmet"
+		},
+	"d4981ca4-723e-3237-8099-7c8f5637b3c3": 
+		{
+		"texture": "helmets/superior_dragon_helmet"
 		},
 	"5f4a4af3-d4f0-3250-82ed-09e38250f98b": 
 		{
 		"texture": "helmets/taurus_helmet"
 		},
-	"f19f1c2e-ebfb-3fdf-b0c8-f12a139916e5": 
+	"3c1dc7d3-6e5f-30c4-be78-1c3dbc697cfa": 
 		{
 		"texture": "helmets/terror_helmet"
 		},
@@ -1330,7 +1358,11 @@
 		{
 		"model": "helmets/true_warden_helmet/frame_11/true_warden_helmet"
 		},
-	"4f6eef4a-c9f2-3f84-832b-a94b89a3e167": 
+	"831066d9-8598-325c-b0ce-9b053e9c9613": 
+		{
+		"texture": "helmets/unstable_dragon_helmet"
+		},
+	"2bb90fe9-9f49-36e4-acf5-8499236d15e9": 
 		{
 		"texture": "helmets/warden_helmet"
 		},
@@ -1338,23 +1370,59 @@
 		{
 		"texture": "helmets/wet_pumpkin"
 		},
+	"88c50467-c0b4-322e-981a-dbfb89244ba3": 
+		{
+		"texture": "helmets/wise_dragon_helmet"
+		},
 	"a4baabfd-565a-33f1-a52b-b120cb7c749b": 
 		{
 		"texture": "helmets/wither_goggles"
 		},
-	"cf225c71-a676-30a0-90da-75907b9a99d0": 
+	"6ce1327d-c29c-3b73-acb4-8ab72cc2c92b": 
 		{
 		"texture": "helmets/wither_helmet"
 		},
-	"9eb38351-9efb-3794-868e-467fda180847": 
+	"74ad11fc-a06d-332e-bf4b-a6fec5bca242": 
 		{
 		"texture": "helmets/wyld_helmet"
+		},
+	"ce68339a-66ca-3f08-be5d-7f61eb4eb1b5": 
+		{
+		"texture": "helmets/young_dragon_helmet"
+		},
+	"bb83c100-e8e3-3ebf-8b7d-1f61d06f6896": 
+		{
+		"model": "items/arachne_fang/arachne_fang"
+		},
+	"12252cc8-9639-34e0-84e8-6241d2520836": 
+		{
+		"model": "items/arachne_fragment/arachne_fragment"
+		},
+	"a8a2442d-7b0b-32d4-9acc-98e80cfbe765": 
+		{
+		"model": "items/ascension_rope/ascension_rope"
+		},
+	"bb749399-4bbc-3da4-8113-4751fc9a7256": 
+		{
+		"model": "items/beating_heart/beating_heart"
 		},
 	"1e29791f-25fe-370b-8dde-bdf364fda47c": 
 		{
 		"model": "items/bob_omb/bob_omb"
 		},
-	"87e89bea-b2db-3d69-8429-16f5c4b889a0": 
+	"0d8c5e49-f13b-3651-87da-e047390af42f": 
+		{
+		"model": "items/claw_fossil/claw_fossil"
+		},
+	"65c208c1-49fa-3dd7-b6c0-f4226c64de72": 
+		{
+		"model": "items/compact_ooze/compact_ooze"
+		},
+	"83f2362b-b58d-39a8-9e48-b6403698f274": 
+		{
+		"model": "items/diamond_atom/diamond_atom"
+		},
+	"9dc6c138-7c68-3bea-940b-58ffc94eaaf7": 
 		{
 		"model": "items/divan_alloy/divan_alloy"
 		},
@@ -1366,11 +1434,11 @@
 		{
 		"model": "items/fine_amber_gemstone/fine_amber_gemstone"
 		},
-	"f933e7f9-cc20-313a-a43f-5f11b3e8a441": 
+	"f572f65f-a621-34bb-8d20-6d0ee2a4feda": 
 		{
 		"model": "items/fine_amethyst_gemstone/fine_amethyst_gemstone"
 		},
-	"13e221e0-7f14-38d3-ac19-48ae55ee277f": 
+	"c6f52392-8744-3ce0-8e48-7c56afb34442": 
 		{
 		"model": "items/fine_jade_gemstone/fine_jade_gemstone"
 		},
@@ -1378,11 +1446,11 @@
 		{
 		"model": "items/fine_jasper_gemstone/fine_jasper_gemstone"
 		},
-	"ab2952c6-003c-38ea-bd83-9844698391a5": 
+	"84dfa600-c6df-3d38-96e3-1c372143a7d7": 
 		{
 		"model": "items/fine_ruby_gemstone/fine_ruby_gemstone"
 		},
-	"40df80a0-70ad-3895-a4fa-a9eafb7d7469": 
+	"98c5744a-7200-32d4-842d-443306d9dc1c": 
 		{
 		"model": "items/fine_sapphire_gemstone/fine_sapphire_gemstone"
 		},
@@ -1390,15 +1458,19 @@
 		{
 		"model": "items/fine_topaz_gemstone/fine_topaz_gemstone"
 		},
-	"60d70a39-9d29-3700-9df3-fc0330550817": 
+	"94ce8918-36eb-327e-9559-87b14cab98bb": 
+		{
+		"model": "items/flaming_fist/flaming_fist"
+		},
+	"65b6ffb8-cc39-3fd1-b5b4-18e309b790ab": 
 		{
 		"model": "items/flawed_amber_gemstone/flawed_amber_gemstone"
 		},
-	"be8cf0ae-a442-36c0-9f5a-5645c8117382": 
+	"2a8142e1-42a6-3f5d-a8b8-fe7fa49f354a": 
 		{
 		"model": "items/flawed_amethyst_gemstone/flawed_amethyst_gemstone"
 		},
-	"041c5b55-875b-3f20-a97e-98610afc3ecb": 
+	"7bbc8def-a7d0-3a5e-b393-f12011ff54dd": 
 		{
 		"model": "items/flawed_jade_gemstone/flawed_jade_gemstone"
 		},
@@ -1406,15 +1478,15 @@
 		{
 		"model": "items/flawed_jasper_gemstone/flawed_jasper_gemstone"
 		},
-	"b5c84278-118b-3634-89e0-547cb6166c0a": 
+	"bb58efd8-1a33-3f21-af05-1bb21d80f858": 
 		{
 		"model": "items/flawed_ruby_gemstone/flawed_ruby_gemstone"
 		},
-	"b4ea250e-6e58-356f-9584-ba4012a2baa9": 
+	"8452cd04-b7e9-3d40-b2cb-4004b1637826": 
 		{
 		"model": "items/flawed_sapphire_gemstone/flawed_sapphire_gemstone"
 		},
-	"92e8050b-b823-3ba5-9bde-48e75cf2eef5": 
+	"bc69d548-2797-3cf4-9635-272d86b559cf": 
 		{
 		"model": "items/flawed_topaz_gemstone/flawed_topaz_gemstone"
 		},
@@ -1422,27 +1494,27 @@
 		{
 		"model": "items/flawless_amber_gemstone/flawless_amber_gemstone"
 		},
-	"b771bdf4-fe8a-3ca1-a0ce-8a07c1b0235f": 
+	"9c09302b-62e8-38c2-9297-183b33dee5d8": 
 		{
 		"model": "items/flawless_amethyst_gemstone/flawless_amethyst_gemstone"
 		},
-	"f8c140e4-0d47-31a9-b164-e698be919a1b": 
+	"18811087-ee50-3e8b-8bc1-7f1a488476aa": 
 		{
 		"model": "items/flawless_jade_gemstone/flawless_jade_gemstone"
 		},
-	"2e6c5c05-adb7-32ec-86bb-f12c5a986638": 
+	"701a9042-b6a9-33b6-b57f-b9457a57a367": 
 		{
 		"model": "items/flawless_jasper_gemstone/flawless_jasper_gemstone"
 		},
-	"93d1453b-80c9-3a09-9d64-f4f08d149970": 
+	"43a86cf4-cd73-39da-a3c7-f3b6e7612eba": 
 		{
 		"model": "items/flawless_ruby_gemstone/flawless_ruby_gemstone"
 		},
-	"117141f7-b729-3bf5-b38c-bfc89f50abde": 
+	"6e933ad7-605b-3423-bb6f-231d3c35c6e0": 
 		{
 		"model": "items/flawless_sapphire_gemstone/flawless_sapphire_gemstone"
 		},
-	"864eb25a-2b1b-3b6b-8fe2-8858b831c6bd": 
+	"ac1ecd14-4d40-3661-8943-1239b512e17b": 
 		{
 		"model": "items/flawless_topaz_gemstone/flawless_topaz_gemstone"
 		},
@@ -1450,17 +1522,45 @@
 		{
 		"model": "items/gemstone_mixture/gemstone_mixture"
 		},
+	"dd079370-01eb-3c6b-845c-407e91cbde3e": 
+		{
+		"model": "items/hallowed_skull/hallowed_skull"
+		},
 	"ab6dcbe9-0ddc-3230-98bb-94dbf3d844b0": 
 		{
 		"model": "items/helix/helix"
 		},
-	"b569ed03-94ae-3da9-a01d-9726633d5b8b": 
+	"b7980b7e-2fa1-3601-917c-39b885346bdc": 
 		{
 		"model": "items/jaderald/jaderald"
+		},
+	"af340ebd-ff35-329e-8bcd-361bc4d9382e": 
+		{
+		"model": "items/kuudra_key/kuudra_key"
+		},
+	"c0cf6423-6d0f-313c-801d-e9292d292808": 
+		{
+		"model": "items/luxurious_spool/luxurious_spool"
+		},
+	"9e3ca5ba-33c1-3e0d-9ff0-882782aa6592": 
+		{
+		"model": "items/magma_urchin/magma_urchin"
+		},
+	"3e709994-be24-35bc-a052-24714f2839df": 
+		{
+		"model": "items/midas_jewel/midas_jewel"
+		},
+	"abb11bef-e29b-3cc5-9d82-cd92a87cba0e": 
+		{
+		"model": "items/molten_cube/molten_cube"
 		},
 	"e6670331-bbb6-301f-b8c4-84d8597843fd": 
 		{
 		"model": "items/oil_barrel/oil_barrel"
+		},
+	"68706a13-28dd-3efa-802c-07dab28212a4": 
+		{
+		"model": "items/optical_lens/optical_lens"
 		},
 	"6d7137b3-66e3-31b1-bd58-eda4b5708ed5": 
 		{
@@ -1470,16 +1570,36 @@
 		{
 		"model": "items/prehistoric_egg/prehistoric_egg"
 		},
-	"846bf289-3768-363e-a699-aee70548f70d": 
+	"ac05669a-a302-3a9a-a14c-f1d34ce0a334": 
+		{
+		"model": "items/premium_flesh/premium_flesh"
+		},
+	"490f6025-7f41-322a-9c7a-9d1cf91ee0ae": 
 		{
 		"model": "items/quick_claw/quick_claw"
+		},
+	"8bd514e2-f3b6-3968-9028-19f6f655f09c": 
+		{
+		"model": "items/rekindled_ember_fragment/rekindled_ember_fragment"
+		},
+	"f9919c69-ee86-3f4f-8bc5-bf0ae2fba91b": 
+		{
+		"model": "items/revive_stone/revive_stone"
+		},
+	"ffafcca4-5dfa-37f8-96eb-611663d74b15": 
+		{
+		"model": "items/rough_jasper_gemstone/rough_jasper_gemstone"
 		},
 	"163f66cb-f787-34c8-8861-f37c0d3d8bb3": 
 		{
 		"model": "items/treasurite/treasurite"
 		},
-	"b79aa74e-f5ac-3d6b-a9a8-169b227f9699": 
+	"279266ad-90ff-33ad-9c55-cb41998b10e3": 
 		{
 		"model": "items/wishing_compass/wishing_compass"
+		},
+	"c5fdfe2d-1c1b-36d2-b010-05caaece12d9": 
+		{
+		"model": "items/yoggie/yoggie"
 		}
 }
