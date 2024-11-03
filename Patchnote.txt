@@ -1,7 +1,0 @@
-Furfsky Reborn Full Bloom 1.7.3.3
-
-Fixes
-
-- All the (un-quantifiable amount) custom heads
-- Added Supports for the starred items that don't have textures yet
-- Fixed the dungeon menues
